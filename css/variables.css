@@ -1,0 +1,13 @@
+:root {
+  --white: #ffffff;
+  --gray: #d9d9d9;
+  --black: #000000;
+  --primary-color: hotpink;
+  --secondary-color: plum;
+  --dark-secondary-color: purple;
+  --tertiary-color: skyblue;
+  --light-tertiary-color: pink;
+  --text-color: #343d48;
+
+  --font-family: 'DM Sans', sans-serif;
+}
